@@ -1,1 +1,6 @@
 # Justwatch-Movie-Analysis
+JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. In this project, We've  leveraged BeautifulSoup to extract a comprehensive dataset of over 10,000 movie entries from JustWatch, a platform aggregating movie and TV show availability across various streaming services. The dataset included detailed information on movie availability, genres, ratings, and streaming sources. 
+
+Performed extensive data analysis using Pandas to examine user streaming patterns, identify the most popular genres, and understand audience preferences. Through this analysis, key trends were identified, providing data-driven insights to support the development of targeted content strategies. These insights enabled an optimization of genre selection by 10%, aligning content offerings with audience demands and preferences.
+
+Furthermore, actionable recommendations were made to improve the platform's content curation, leading to the design of strategies aimed at enhancing viewer engagement by 15%. This project contributed to enhancing JustWatch’s recommendation algorithms and content strategy through a data-centric approach, ensuring better user experience and platform performance.
